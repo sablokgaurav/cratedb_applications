@@ -3,6 +3,8 @@ making cratedb easier by allowing you to execute the queries as a normal text st
 
 ![usage](https://github.com/sablokgaurav/cratedb_easier/blob/main/cratedb.png)
 
+This will be ready by evening and you can directly deploy the cratedb without any programming knowledge or using the SQL. Let me know and will integrate the complete SQL guide autocompletion. 
+
 Gaurav Sablok \
 Academic Staff Member \
 Bioinformatics \
