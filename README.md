@@ -1,5 +1,5 @@
 # cratedb_applications
-making cratedb easier by allowing you to execute the queries as a normal text string. It will formulate the formatted string and will execute the query and will allow for the selection of the data. Attending the cradedb meeting, so thought of wirting this piece of code. Thank you cratedb.
+making cratedb easier by allowing you to execute the queries as a normal text string. It will formulate the formatted string and will execute the query and will allow for the selection of the data. Attending the cradedb meeting, so thought of wirting this piece of code. Thank you cratedb. Adding the support for deploying on the cloud services with in the premises or outside the premises on the external instances from any service provider.
 
 ![usage](https://github.com/sablokgaurav/cratedb_easier/blob/main/crateDB.png)
 
